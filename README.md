@@ -1,1 +1,1 @@
-data visualisation of covid in each districts of kerala 
+Data visualisation of COVID-19 in each districts of Kerala 
