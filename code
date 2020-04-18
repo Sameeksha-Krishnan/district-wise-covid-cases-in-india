@@ -1,0 +1,7 @@
+districts=["AL", "KN", "ER", "ID", "KS", "KL", "KT", "KZ", "MA", "PL", "PT", "TV", "TS", "WA"]
+cases=[3, 52, 24, 9, 136, 6, 6, 10, 12, 7, 11, 14, 13, 3]
+plt.plot(districts,cases,color='green',marker='o',linestyle='solid')
+plt.title("DISTRICT WISE COVID CASES CHART IN KERALA")
+plt.xlabel("districts in kerala")
+plt.ylabel("covid infected cases no")
+plt.show()
